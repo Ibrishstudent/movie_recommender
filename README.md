@@ -22,4 +22,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 me!
 
+![image](https://github.com/user-attachments/assets/995ffb64-9b68-4a36-9fbe-edbee89a44b0)
 
